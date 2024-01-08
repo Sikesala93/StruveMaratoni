@@ -1,6 +1,6 @@
 # StruveMaratoni
 
-Suunnistamispeli Unitylla. Kartat tehty Blenderillä ja tietokantana toimi aws phpMyAdmin. Saadaan paikkatiedot ja säädata.
+Suunnistamispeli Unitylla. Kartat tehty Blenderillä ja tietokantana toimi phpMyAdmin. Saadaan paikkatiedot ja säädata.
 
 ![database lat, lon](https://github.com/Sikesala93/StruveMaratoni/assets/73936511/a636ac6c-3d01-4b6a-ba17-d2417ab731ea)
 
